@@ -4,7 +4,7 @@
 
 - 🪧 [About](#About)
 - 📦 [Services](#Services)
-- 🚀 [Skils](#Skills)
+- 🚀 [Skills](#Skills)
 - 📩 [Contact](#Contact)
 - 🔗 [Link / Contact](#Link-/-Contact)
 

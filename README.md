@@ -25,7 +25,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 <br>
 <div style="display: flex; align-items: center; justify-content: center">
-    <div style="margin-right: 20px">
+    <div style="margin-right: 20px">    
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </div>
     <div style="margin-right: 20px">
@@ -181,7 +181,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 ## Link / Contact
 
-<div style="display: flex; align-items: center; justify-content: center">
+<center>
     <a href="https://github.com/jboucly?tab=repositories">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1200px-Font_Awesome_5_brands_github.svg.png" width="25px" style="margin-right: 20px">
     </a>
@@ -197,4 +197,4 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
     <a href="mailto: julien.boucly.pro@gmail.com">
         <img src="https://icons.veryicon.com/png/o/internet--web/billion-square-cloud/mail-213.png" width="25px" style="margin-right: 20px">
     </a>
-</div>
+</center>

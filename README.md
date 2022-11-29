@@ -6,7 +6,7 @@
 - 📦 [Services](#Services)
 - 🚀 [Skills](#Skills)
 - 📩 [Contact](#Contact)
-- 🔗 [Link / Contact](#Link-/-Contact)
+- 🔗 [Link / Contact](#Link--Contact)
 
 ## About
 

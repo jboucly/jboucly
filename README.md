@@ -1,4 +1,4 @@
-<ing src="https://github.com/jboucly/jboucly/blob/main/assets/banner.gif"/>
+<ing src="https://github.com/jboucly/jboucly/blob/main/assets/banner.png"/>
 
 Summary
 

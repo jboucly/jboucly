@@ -1,6 +1,6 @@
-<img src="./assets/banner.png" />
+<img src="./assets/banner.png" width="100%" />
 
-Summary
+## Summary
 
 - 🪧 [About](#About)
 - 📦 [Services](#Services)

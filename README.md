@@ -77,7 +77,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 ### Contribution
 
-![StackOverflow](https://img.shields.io/badge/StackOverflow-f58224?style=for-the-badge&logo=stackoverflow&logoColor=white) ![Magicmirror2](https://img.shields.io/badge/MagicMirror2-RPI-000?style=for-the-badge&logo=deta&logoColor=white)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-f58224?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10208733/jboucly) [![Magicmirror2](https://img.shields.io/badge/MagicMirror2-RPI-000?style=for-the-badge&logo=deta&logoColor=white)](https://github.com/MichMich/MagicMirror)
 
 ## Link / Contact
 

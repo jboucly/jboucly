@@ -79,6 +79,13 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-f58224?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10208733/jboucly) [![Magicmirror2](https://img.shields.io/badge/MagicMirror2-RPI-000?style=for-the-badge&logo=deta&logoColor=white)](https://github.com/MichMich/MagicMirror)
 
+### GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jboucly&bg_color=E86345,DE614F,BF596E,A75483,8F4E95&title_color=fff&hide_title=true&text_color=fff&hide_border=true&layout=compact" alt="jboucly">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jboucly&bg_color=E86345,DE614F,BF596E,A75483,8F4E95&title_color=fff&text_color=fff&hide_border=true&layout=compact&hide=c%2B%2B,C,Swift,CMake,Kotlin,Procfile,Objective-c" alt="jboucly">
+</div>
+
 ## Link / Contact
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1200px-Font_Awesome_5_brands_github.svg.png" width="25px">](https://github.com/jboucly?tab=repositories) [<img src="https://www.karimbouamama.com/static/media/malt.a65aebc5.png" width="25px">](https://www.malt.fr/profile/julienboucly) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" width="25px">](https://www.linkedin.com/in/julien-boucly/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" width="25px">](https://jboucly.fr) [<img src="https://icons.veryicon.com/png/o/internet--web/billion-square-cloud/mail-213.png" width="25px">](mailto:julien.boucly.pro@gmail.com)

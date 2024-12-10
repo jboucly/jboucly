@@ -10,7 +10,7 @@
 
 ## About
 
-After a course in the electricity industry to become an industrial electrician, I turned to web development in 2017!
+After a course in the electricity industry to become an industrial electrician, I turned to web development in 2017 !
 I therefore carried out a professional reintegration with a BTS SNIR (Digital System option Computing and Networks) in alternation which allowed me to set foot in the middle of the IT. Once my work-study program was over, I turned to ESN Rennes, which allowed me to very quickly build up my skills in different areas. A rich experience, my DA as well as my project manager, my license to take charge of an alternating over a period of one year as well as several trainees over more or less long periods.
 The sharing of knowledge as well as the learning of practice, method, technologies are things that drive me on a daily basis.
 
@@ -25,7 +25,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 <br>
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white) ![Google chat](https://img.shields.io/badge/google_chat-FF5100?style=for-the-badge&logo=googlechat&logoColor=white)
 
 ### Dev
 
@@ -33,7 +33,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 <br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white) ![terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 <br>
 
@@ -56,7 +56,7 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/google_bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 <br>
 
@@ -64,7 +64,8 @@ Node JS expert with the use of the NestJS framework, I am able to work independe
 
 <br>
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Amazon Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0162cc?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Amazon Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0162cc?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 
 **Devops**
